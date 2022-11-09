@@ -102,10 +102,4 @@
      "uniques": ["Normal vision when embarked"],
      "unitTypes": ["Ranged Gunpowder","Archery"]
   },
-  {
-     "name": "Marine Training III",
-     "prerequisites": ["Marine Training II"],
-     "uniques": ["Defense bonus when embarked"],
-     "unitTypes": ["Ranged Gunpowder","Archery"]
-  },
 ]

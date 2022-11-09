@@ -13,12 +13,11 @@
      "unitTypes": ["Archery","Ranged Gunpowder","Siege"]
   },
 //Ships can see over obstacles once you have modern tech (not in for now)
-/*  {
+  {
      "name": "Radar",
-     "prerequisites": ["Accuracy III","Barrage III"],
-     "uniques": ["Can see over obstacles"],
+     "uniques": ["Can see over obstacles","Only available <after discovering [Radar]>"],
      "unitTypes": ["Ranged Water","Melee Water","Aircraft Carrier"]
-  },*/
+  },
 //Extra stuff for Scouts
   {
      "name": "Infiltrater I",
@@ -74,21 +73,21 @@
 //air mobility for land units
   {
      "name": "Air Mobile I",
-     "prerequisites": ["Accuracy III","Barrage III","Shock III","Drill III"],
-     "uniques": ["May Paradrop up to [+2] tiles from inside friendly territory <after discovering [Flight]>"],
-     "unitTypes": ["Ranged Gunpowder","Gunpowder","Armored","Siege"]
+     "prerequisites": ["Accuracy III","Barrage III","Shock III","Drill III","Scouting III"],
+     "uniques": ["May Paradrop up to [+2] tiles from inside friendly territory","Only available <after discovering [Flight]>"],
+     "unitTypes": ["Ranged Gunpowder","Gunpowder","Armored","Siege","Sword","Mounted","Archery","Scout"]
   },
   {
      "name": "Air Mobile II",
      "prerequisites": ["Air Mobile I"],
-     "uniques": ["May Paradrop up to [+2] tiles from inside friendly territory <after discovering [Flight]>"],
-     "unitTypes": ["Ranged Gunpowder","Gunpowder","Armored","Siege"]
+     "uniques": ["May Paradrop up to [+2] tiles from inside friendly territory","Only available <after discovering [Flight]>"],
+     "unitTypes": ["Ranged Gunpowder","Gunpowder","Armored","Siege","Sword","Mounted","Archery","Scout"]
   },
   {
      "name": "Air Mobile III",
      "prerequisites": ["Air Mobile II"],
-     "uniques": ["May Paradrop up to [+3] tiles from inside friendly territory <after discovering [Flight]>"],
-     "unitTypes": ["Ranged Gunpowder","Gunpowder","Armored","Siege"]
+     "uniques": ["May Paradrop up to [+3] tiles from inside friendly territory","Only available <after discovering [Flight]>"],
+     "unitTypes": ["Ranged Gunpowder","Gunpowder","Armored","Siege","Sword","Mounted","Archery","Scout"]
   },
 //Ranged units can see and shoot while embarked 
   {

@@ -47,7 +47,7 @@
   {
      "name": "Route March II",
      "prerequisites": ["Route March I"],
-     "uniques": ["[+1] Movement <in tiles without [Enemy land]>"],
+     "uniques": ["[+1] Movement <in tiles without [Enemy Land]>"],
      "unitTypes": ["Mounted","Armored","Sword","Gunpowder","Siege","Archery","Ranged Gunpowder"]
   },
   {

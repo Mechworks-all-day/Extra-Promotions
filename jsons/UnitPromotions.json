@@ -80,13 +80,13 @@
   {
      "name": "Air Mobile II",
      "prerequisites": ["Air Mobile I"],
-     "uniques": ["May Paradrop up to [+2] tiles from inside friendly territory","Only available <after discovering [Flight]>"],
+     "uniques": ["May Paradrop up to [+3] tiles from inside friendly territory","Only available <after discovering [Flight]>"],
      "unitTypes": ["Ranged Gunpowder","Gunpowder","Armored","Siege","Sword","Mounted","Archery","Scout"]
   },
   {
      "name": "Air Mobile III",
      "prerequisites": ["Air Mobile II"],
-     "uniques": ["May Paradrop up to [+3] tiles from inside friendly territory","Only available <after discovering [Flight]>"],
+     "uniques": ["May Paradrop up to [+4] tiles from inside friendly territory","Only available <after discovering [Flight]>"],
      "unitTypes": ["Ranged Gunpowder","Gunpowder","Armored","Siege","Sword","Mounted","Archery","Scout"]
   },
 //Ranged units can see and shoot while embarked 

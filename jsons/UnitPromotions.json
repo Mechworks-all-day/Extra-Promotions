@@ -60,7 +60,7 @@
   {
      "name": "Collateral Damage",
      "prerequisites": ["Volley","Siege II","Bombardment II"],
-     "uniques": ["Destroys tile improvements when attacking"],
+     "uniques": ["Destroys tile improvements when attacking <when fighting in [Enemy land] tiles>"],
      "unitTypes": ["Siege","Bomber","Ranged Water"]
   },
 //Gunpowder units get extra attack

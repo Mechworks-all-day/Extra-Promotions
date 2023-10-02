@@ -99,7 +99,7 @@
   {
      "name": "Marine Training II",
      "prerequisites": ["Marine Training I"],
-     "uniques": ["Normal vision when embarked"],
+     "uniques": ["[+1] Sight <when[Embarked]>],
      "unitTypes": ["Ranged Gunpowder","Archery"]
   },
 ]
